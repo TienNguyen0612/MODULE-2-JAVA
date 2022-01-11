@@ -1,0 +1,5 @@
+hello
+hi
+không cần try catch nhé
+tôi muốn code dạo
+nhìn thấy gì không ?
